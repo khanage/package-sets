@@ -596,6 +596,15 @@
     "repo": "https://github.com/purescript/purescript-identity.git",
     "version": "v4.0.0"
   },
+  "indexed-monad": {
+    "dependencies": [
+      "aff",
+      "effect",
+      "prelude"
+    ],
+    "repo": "https://github.com/khanage/purescript-indexed-monad.git",
+    "version": "master"
+  },
   "integers": {
     "dependencies": [
       "globals",
